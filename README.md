@@ -14,8 +14,7 @@
   <br>
   
   <div id="pre-march8">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=500&color=FF69B4&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D1%83%D1%8E!;%F0%9F%8E%84+%D0%A1+%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B8%D0%BC+%D0%9D%D0%BE%D0%B2%D1%8B%D0%BC+%D0%B3%D0%BE%D0%B4%D0%BE%D0%BC!;%F0%9F%8C%B7+%D0%96%D0%B4%D0%B5%D0%BC+8+%D0%BC%D0%B0%D1%80%D1%82%D0%B0...;%E2%9D%A4%EF%B8%8F+%D0%92%D1%8B+%D0%BB%D1%83%D1%87%D1%88%D0%B8%D0%B5!" alt="Short greeting">
-    
+    <img src="https://readme-typing-svg.demolab.com font=Fira+Code&weight=500&size=18&duration=4000&pause=500&color=FF69B4&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D1%83%D1%8E!;%F0%9F%8E%84+%D0%A1+%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B8%D0%BC+%D0%9D%D0%BE%D0%B2%D1%8B%D0%BC+%D0%B3%D0%BE%D0%B4%D0%BE%D0%BC!;%F0%9F%8C%B7+%D0%96%D0%B4%D0%B5%D0%BC+8+%D0%BC%D0%B0%D1%80%D1%82%D0%B0...;%E2%9D%A4%EF%B8%8F+%D0%92%D1%8B+%D0%BB%D1%83%D1%87%D1%88%D0%B8%D0%B5!" alt="Short greeting">
     <p style="font-size: 20px; margin-top: 30px;">
       ⏰ <strong>Скоро тут будет всё самое тёплое...</strong> ⏰
     </p>
