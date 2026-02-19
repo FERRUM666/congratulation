@@ -7,8 +7,8 @@
   
   <br>
 
-  <!-- Анимация печатной машинки с 5 фразами -->
-  <img src="https://readme-typing-svg.demolab.com!" alt="Милые фразы">
+  <!-- Анимация печатной машинки: 5 приятных фраз -->
+  <img src="https://readme-typing-svg.demolab.com!" alt="Typing SVG">
 
   <div style="margin-top: 30px;">
     <h2>🌸 С 8 МАРТА, ЛЮБИМЫЕ! 🌸</h2>
@@ -27,14 +27,12 @@
 
   <br><br>
 
-  <!-- Кнопка с сюрпризом -->
+  <!-- Кнопка с Рикроллом -->
   <a href="https://www.youtube.com" target="_blank">
     <img src="https://img.shields.io🎁-Нажми_для_сюрприза-ff69b4?style=for-the-badge&logo=github" alt="Surprise Button">
   </a>
 
   <br><br>
-
-  <img src="https://readme-jokes.vercel.app" alt="Jokes Card" width="400">
 </div>
 
 <img src="https://raw.githubusercontent.com" width="100%">
