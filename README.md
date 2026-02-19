@@ -28,7 +28,7 @@
   <br><br>
 
   <!-- Кнопка с Рикроллом -->
-  <a href="https://www.youtube.com" target="_blank">
+  <a href="[https://www.youtube.com](https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1)" target="_blank">
     <img src="https://img.shields.io🎁-Нажми_для_сюрприза-ff69b4?style=for-the-badge&logo=github" alt="Surprise Button">
   </a>
 
