@@ -1,13 +1,9 @@
 <div align="center">
   <h1>💝 Девочкам 💝</h1>
   
-  <p>
-    <img src="https://img.shields.io🌷-ff69b4?style=for-the-badge">
-  </p>
-  
   <br>
 
-  <!-- Анимация печатной машинки: 5 приятных фраз -->
+  <!-- Анимация печатной машинки -->
   <img src="https://readme-typing-svg.demolab.com!" alt="Typing SVG">
 
   <div style="margin-top: 30px;">
@@ -22,17 +18,14 @@
       <strong>Девочки, вы самое ценное сокровище, что у меня есть,<br>
       обеих сильно люблю и обеими дорожу.</strong>
     </p>
-    <img src="https://media.giphy.com" width="280">
   </div>
 
   <br><br>
 
-  <!-- Кнопка с Рикроллом -->
-  <a href="[https://www.youtube.com](https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1)" target="_blank">
-    <img src="https://img.shields.io🎁-Нажми_для_сюрприза-ff69b4?style=for-the-badge&logo=github" alt="Surprise Button">
+  <!-- Обычная кнопка-ссылка -->
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1">
+    <strong>🎁 НАЖМИ ДЛЯ СЮРПРИЗА 🎁</strong>
   </a>
 
   <br><br>
 </div>
-
-<img src="https://raw.githubusercontent.com" width="100%">
