@@ -3,9 +3,7 @@
   
   <br>
 
-  <!-- Анимация печатной машинки -->
-  <img src="https://readme-typing-svg.demolab.com!" alt="Typing SVG">
-
+ 
   <div style="margin-top: 30px;">
     <h2>🌸 С 8 МАРТА, ЛЮБИМЫЕ! 🌸</h2>
     <p style="font-size: 18px; max-width: 600px; line-height: 1.6;">
